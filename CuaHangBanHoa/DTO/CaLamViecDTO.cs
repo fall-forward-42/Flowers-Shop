@@ -9,6 +9,7 @@ namespace CuaHangBanHoa.DTO
 {
     public class CaLamViecDTO
     {
+        //ca lam viec
         private string maCLV;
         private string tenCLV;
         private int gioBD;
